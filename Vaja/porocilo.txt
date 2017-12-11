@@ -1,2 +1,2 @@
 1. Statusi so bili unknown.
-2. Statusi pri tmp.txt in poroèilo.txt je bil modified
+2. Statusi pri tmp.txt in poroèilo.txt  in glasba.txt modified
